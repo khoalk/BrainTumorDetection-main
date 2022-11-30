@@ -1,0 +1,7 @@
+tensorflow
+opencv-python-headless
+Pillow
+pandas
+beautifulsoup4
+requests
+lxml
